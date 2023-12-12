@@ -1,2 +1,2 @@
 # Thesis-work
-Source codes for my thesis work
+This repository contains my source codes used during my Thesis work.
